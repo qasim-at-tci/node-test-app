@@ -1,0 +1,9 @@
+os: linux
+dist: focal
+language: node_js
+node_js: 18.16.1
+
+cache:
+  npm: true
+
+script: true
